@@ -1,0 +1,83 @@
+
+
+1.Customer Database:
+
+i) User ID and Password
+
+ii) Information about client like: Name, Phone No, Address for home delivery and home service(optional).
+
+ 
+
+2.List of Specific Services and Products with Ratings.
+
+i) Services: Beauty, Spa, Salons, Barbershop, Care, Hair, Health, Massage, Medical, Makeup etc. with appropriate costs and schedule (planned as employee’s availability) for the ease of booking and selecting.
+
+ii)Cosmetic and several medicine for self-care with proper cost and estimated time to delivery.
+
+ 
+
+3.Booking system according to calendar.
+
+i)Expected service.
+
+ii)Expected date & Time.
+
+iii)Expected employee (For sensitive services like Hair Color, Skin care etc.)
+
+ 
+
+ 
+
+4.Online Payment system.
+
+i)Exchanging currencies might be harmful.
+
+ii)All kind of card Acceptance.
+
+ 
+
+5.Feedback system:
+
+i)For services and product.
+
+ii)For Employee
+
+ 
+
+6.Product record:
+
+i)Cosmetic and Medicine
+
+ii)Safety Equipment (Alert will appear if the quantity goes below 50% of capacity.)
+
+ 
+
+7.Combo package offers and Discount Token for clients.
+
+ 
+
+8.Information of Employee.
+
+i)About the availability of the workers.
+
+ii)Ensuring Satisfaction level and keeping good image to sensitive clients.
+
+iii)Rating about workers.
+
+ 
+
+9.Staff Management.
+
+i)Online feedback from clients will help to improve service quality of the staff toward clients.
+
+ii)Monthly bonus for most dedicated staff can be find out by the rating analysis.
+
+ 
+
+10.Account Management.
+
+i)As online payment will be implemented, so it can easily calculate the total income. Revenue can be easily calculated by redacting the expenses.
+
+ 
+
+11.Home service and home care such as includes hair color, body massage, bridal functions and others. Delivering products product like cosmetic and medicine will be also provided by proper schedule following all safety measures.
